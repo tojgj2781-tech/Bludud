@@ -3817,7 +3817,7 @@ elseif game.PlaceId == 11520107397 then
                     end
                 end
             end
-        task.wait(0.2)
+        task.wait(0)
         end
     end)
 
